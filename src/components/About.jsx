@@ -9,12 +9,24 @@ const About = () => {
       >
         <img src={aboutSvg} className="w-full h-64" />
         <article>
-          <SectionTitle text="learn and learn" />
+          <SectionTitle text="About me" />
           <p className="text-slate-600 mt-8 leading-loose">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta
-            illo, consectetur labore rerum obcaecati tempora tempore, quibusdam
-            ratione officiis quis atque? Dignissimos aliquid minus repudiandae
-            velit quia voluptas, esse eaque!
+            As a recent Computer Science graduate with a passion for web
+            development, I bring a strong foundation in programming and hands-on
+            experience with modern technologies. Proficient in React,
+            TypeScript, and Tailwind CSS, I excel at creating dynamic,
+            responsive user interfaces. My expertise extends to using Vite for
+            fast development builds, Axios for efficient data fetching, and
+            Redux Toolkit and React Query for robust state management.
+            Additionally, I have experience with Node.js, Shadcn UI, Clerk,
+            Supabase, Prisma, and Stripe.
+          </p>
+          
+          <p className="text-slate-600 mt-8 leading-loose">
+            I’m a passionate learner who loves taking on new challenges. I focus
+            on optimizing performance and ensuring accessibility, using my
+            skills to create impactful solutions while growing professionally
+            and personally.
           </p>
         </article>
       </div>

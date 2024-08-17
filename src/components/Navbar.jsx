@@ -2,7 +2,7 @@ import { links } from "../data";
 
 const Navbar = () => {
   return (
-    <nav className="bg-sky-400" >
+    <nav className="bg-sky-200" >
       <div
         className="align-element py-4  flex flex-col 
       sm:flex-row sm:gap-x-16 sm:items-center sm:py-8"
